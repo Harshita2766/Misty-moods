@@ -31,4 +31,4 @@ To get the project up and running, follow these steps:
 ### 1. Clone the Repository
 First, clone the project to your local machine:
 ```bash
-git clone https://github.com/your-username/misty-moods.git
+git clone https://github.com/Harshita2766/misty-moods.git
