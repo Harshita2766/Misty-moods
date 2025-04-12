@@ -14,7 +14,7 @@ Welcome to **Misty Moods**, an AI-powered weather forecasting model that provide
 - **Weather Prediction**: Predicts weather parameters such as temperature, humidity, wind speed, and pressure.
 - **Real-Time Data**: Seamlessly integrates live weather data via APIs, keeping forecasts up-to-date.
 - **Interactive Dashboard**: The weather forecast is beautifully visualized with the **Supaboard Dashboard**, providing real-time insights.
-- **Multiple Weather Parameters**: Leverages 23 critical weather metrics to provide accurate forecasts for any location.
+- **Multiple Weather Parameters**: Leverages all the critical weather metrics to provide accurate forecasts for any location.
 
 ### **Technologies Used**:
 - 🧠 **Machine Learning**: Powered by **scikit-learn**, **TensorFlow**, or **Keras** to train accurate forecasting models.
