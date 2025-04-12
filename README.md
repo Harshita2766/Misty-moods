@@ -6,7 +6,7 @@ An AI-powered weather forecasting project built during a 2025 hackathon, combini
 
 ## 🚀 Project Overview
 
-Misty Moods forecasts weather conditions using 23 essential weather parameters. The project aims to simplify weather data interpretation and provide real-time insights through an automated pipeline and a dynamic Supabase dashboard.
+Misty Moods forecasts weather conditions using the essential weather parameters. The project aims to simplify weather data interpretation and provide real-time insights through an automated pipeline and a dynamic Supabase dashboard.
 
 ---
 
