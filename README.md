@@ -22,7 +22,7 @@ Welcome to **Misty Moods**, an AI-powered weather forecasting model that provide
 - 🛰️ **Weather APIs**: Integrated with data from **OpenWeatherMap**, **WeatherAPI**, or similar services for real-time updates.
 - 🐍 **Python**: The backbone of the application, used for data manipulation, model training, and backend operations.
 - 📈 **Pandas & Numpy**: For seamless data manipulation and processing.
-- 🌐 **Flask/Django**: Web frameworks to serve the application and manage the backend processes.
+- 🌐 **Django**: Web frameworks to serve the application and manage the backend processes.
 - 🌟 **HTML/CSS/JavaScript**: For creating the dashboard’s user interface.
 
 ## 🚀 **Setup Instructions**
